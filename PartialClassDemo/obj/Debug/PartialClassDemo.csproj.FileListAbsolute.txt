@@ -1,0 +1,5 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.pdb
